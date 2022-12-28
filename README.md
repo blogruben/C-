@@ -1,4 +1,4 @@
 # C++
 
 
-Ejercicio 10
+Ejercicio 23

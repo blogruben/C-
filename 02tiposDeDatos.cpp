@@ -7,7 +7,7 @@
  using namespace std;
 
  int main (){
-    int entero1 = 11;//entero
+    int entero1 = 10;//entero
     int entero2 = 3; 
     float flotante = 8.92;//presicion 7 decimales
     double masDecimales = 15.64376;//precion 15 decimales
@@ -48,6 +48,8 @@
     cout<<"La resta de "<<numeros<<" es: "<<resta<<endl;
     cout<<"La multiplicacion de "<<numeros<<" es: "<<multiplicacion<<endl;
     cout<<"La division de "<<numeros<<" es: "<<division<<endl;
+    if (entero1%2==0) cout<<"El numero "<<entero1<<" es par"<<endl;
+
 
 
     //LIBRERIA MATEMATICAS
