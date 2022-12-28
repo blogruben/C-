@@ -4,7 +4,7 @@ Lectura O entrada de datos
 
  #include<iostream>
  #include<conio.h>//mantener la consola abierta getch
-
+#include<stdlib.h>//preguntar para salir system(pause)
  
  using namespace std;
 
@@ -48,8 +48,8 @@ Lectura O entrada de datos
     
     getch();//esperar para salir del programa
 
-
-
+    system("pause");
     return 0;
 }
+
 
