@@ -1,3 +1,5 @@
+//https://stackoverflow.com/questions/755835/how-to-add-element-to-c-array
+
 #include<iostream>
 #include<conio.h>
 using namespace std;
@@ -5,7 +7,7 @@ using namespace std;
 
  int main(){
 
-    //https://www.geeksforgeeks.org/clearing-the-input-buffer-in-cc/
+    
 
     getch();
     return 0;
